@@ -1,0 +1,40 @@
+ /*cat.css*/
+   body {
+	   text-align:center;
+	  background-color: black;
+   }
+   img {
+	content:url(baymax.png);
+	width:70vw;
+
+}
+.baymax {
+	visibility:hidden;
+}
+}
+@media only screen and (min-width: 410px) and (max-width:600px) {
+	body {
+	   text-align:center;
+
+	
+   }
+  img {
+	content:url(baymax2.png);
+	width:50vw;
+	
+}
+.baymax {
+	visibility:hidden;
+}
+}
+@media only screen and (min-width: 400px) and (max-width:500px) {
+   body {
+	   text-align:center;
+	 
+   }
+   img {
+	content:url(baymax2.png);
+	width:80vw;
+
+}
+ 
