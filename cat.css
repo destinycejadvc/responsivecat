@@ -12,7 +12,7 @@
 	visibility:hidden;
 }
 }
-@media only screen and (min-width: 410px) and (max-width:600px) {
+@media only screen and (min-width: 400px) and (max-width:600px) {
 	body {
 	   text-align:center;
 
@@ -33,8 +33,10 @@
 	 
    }
    img {
-	content:url(baymax2.png);
+	content:url(baymax.jpg);
 	width:80vw;
+
+}
 
 }
  
