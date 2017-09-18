@@ -4,7 +4,7 @@
 	  background-color: black;
    }
    img {
-	content:url(baymax.png);
+	content:url(https://github.com/destinycejadvc/responsivecat/blob/master/baymax.png);
 	width:70vw;
 
 }
@@ -19,7 +19,7 @@
 	
    }
   img {
-	content:url(baymax2.png);
+	content:url(https://github.com/destinycejadvc/responsivecat/blob/master/baymax2.png);
 	width:50vw;
 	
 }
@@ -33,10 +33,9 @@
 	 
    }
    img {
-	content:url(baymax.jpg);
+	content:url(https://github.com/destinycejadvc/responsivecat/blob/master/baymax.jpg);
 	width:80vw;
 
 }
 
-}
  
